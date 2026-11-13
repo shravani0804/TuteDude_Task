@@ -1,15 +1,15 @@
 # Laundry Mart
 
-A simple and responsive HTML webpage created as part of the HTML assignment. This project represents a laundry service website that provides customers with information about services, pricing, and contact details through a clean and user-friendly interface.
+A simple and responsive HTML webpage created using HTML . This project represents a laundry service website that provides customers with information about services, pricing, and contact details through a clean and user-friendly interface.
 
 ## Project Overview
 
-The Laundry Wallah / Laundry Mart webpage is designed to:
+The Laundry Mart webpage is designed to:
 - Welcome visitors with an attractive homepage.
 - Display information about the laundry business.
-- Showcase available laundry services.
+- Show available laundry services.
 - Present pricing details.
-- Allow users to contact the business through a simple form.
+- Allow users to contact the business using a simple form.
 - Provide an easy-to-navigate user experience.
 
 ## Features
@@ -19,8 +19,6 @@ The Laundry Wallah / Laundry Mart webpage is designed to:
 - Laundry services list
 - Pricing table
 - Contact form
-
-
 
 ## Sections Included
 
@@ -82,12 +80,10 @@ The webpage displays:
 
 ## Future Improvements
 
-- Add CSS for better styling.
+- Adding CSS for better styling.
 - Make the webpage responsive.
 - Add JavaScript form validation.
 - Integrate online booking.
 - Add customer reviews.
 - Connect the contact form to a backend.
 
-
-HTML Assignment-Laundry Mart
